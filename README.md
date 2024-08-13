@@ -77,7 +77,6 @@ Serve the application:
 
 ```bash
   php artisan serve
-
 ```
 
 ## Roadmap
